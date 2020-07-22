@@ -1,0 +1,32 @@
+Loud
+Find the vault
+(If possible, the vault should be the one from Brooklyn Bank, so it's randomized if thermite, C4 or drill)
+Equipment would be stored in the pickup truck in the parking lot or the van driver would drop it off
+When interacting with the vault for the first time, it'll shock you
+Turn the power connected to the vault off (1 of the power boxes that are on the roof)
+Start breaching the vault (at this point, contractor will notify that all streets are blocked off, so we're going to Plan B)
+Helicopter will have to be notified with a flare on the roof
+Wait for cage parts
+Build cage on the roof
+When first vault is breached, contractor will spot the 2nd door
+Cause no more equipment, brute force will be used for the keycard readers and the managers computer will have to be hacked
+After 2nd vault is breached, you can loot as much as you want, and throw it into the cage
+Deploy the fulton when x amount of loot is in the cage
+Plane will pick it up
+Escape would be us signaling the helicopter with a flare
+
+Stealth
+Find the vault
+Hack one of the computers on the desk next to the vault
+Find a keycard for the reader (4 keycards on the map. 1 on the cam guy, 1 on manager, 1 on first floor, 1 on second floor)
+First vault open
+Notice 2nd vault
+Hack the managers computer
+Use both of the readers
+Vault opens
+Secure the loot
+
+Extra stuff:
+The deposit boxes are extra
+GenSec truck I placed would be random, if it's there (30% chance)
+Contractor would be me, to make VO stuff easier etc
