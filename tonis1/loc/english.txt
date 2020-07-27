@@ -1,1 +1,17 @@
-{}
+{
+	"heist_tonisl1_name" : "Grand Harvest",
+	"heist_tonisl1_brief" : "Alright, the idea is simple. We go in, test Harvest and Trustees new security and get that sweet, sweet loot. This should be pretty straight forward, knowing these guys's track record, but I've also received intel, that the vault is containing someones dirty money. Whose money that is? I have no clue, but maybe we can figure that out, when we get there. Right now, get your masks on, and lets get that sweet sweet green.",
+	"heist_tonisn1_name" : "Grand Harvest",
+	"heist_tonisn1_brief" : "A simple bank hit, where we will be testing Harvest and Trustees new security. This should be a piece of cake.",
+	"ton1_obj_1" : "Find the vault",
+	"ton1_obj_2a" : "Breach the vault using the thermal drill",
+	"ton1_obj_2b" : "Breach the vault using thermite paste and winch",
+	"ton1_obj_3" : "Reach the bottom floor of the vault",
+	"ton1_obj_4" : "Hack the manager's PC",
+	"ton1_obj_5" : "Complete the hack by hacking a workers PC",
+	"ton1_obj_6" : "Enter the lower part of the vault",
+	"ton1_obj_7" : "Grab the intel",
+	"ton1_obj_8" : "Wait for the chopper to arrive",
+	"ton1_obj_9" : "Secure the loot",
+	"ton1_obj_10" : "Secure more loot or escape",
+}

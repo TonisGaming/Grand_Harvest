@@ -1,0 +1,13 @@
+<table>
+	<objective description="ton1_obj_1_desc" id="ton1_obj_1" text="ton1_obj_1"/>
+	<objective description="ton1_obj_2_desc" id="ton1_obj_2a" text="ton1_obj_2a"/>
+	<objective description="ton1_obj_3_desc" id="ton1_obj_3" text="ton1_obj_3"/>
+	<objective description="ton1_obj_2b_desc" id="ton1_obj_2b" text="ton1_obj_2b"/>
+	<objective description="ton1_obj_4_desc" id="ton1_obj_4" text="ton1_obj_4"/>
+	<objective description="ton1_obj_5_desc" id="ton1_obj_5" text="ton1_obj_5"/>
+	<objective description="ton1_obj_6_desc" id="ton1_obj_6" text="ton1_obj_6"/>
+	<objective description="ton1_obj_7_desc" id="ton1_obj_7" text="ton1_obj_7"/>
+	<objective description="ton1_obj_8_desc" id="ton1_obj_8" text="ton1_obj_8"/>
+	<objective amount="12" description="ton1_obj_9_desc" id="ton1_obj_9" text="ton1_obj_9"/>
+	<objective description="ton1_obj_10_desc" id="ton1_obj_10" text="ton1_obj_10"/>
+</table>

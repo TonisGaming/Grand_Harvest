@@ -33,6 +33,13 @@
 			<value_node value="levels/narratives/bain/roberts/world/world"/>
 			<value_node value="levels/narratives/h_firestarter/stage_3/world"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
+			<value_node value="levels/narratives/locke/brb/world/world"/>
+			<value_node value="levels/instances/unique/cag_computer/world/world"/>
+			<value_node value="levels/instances/unique/dark/train_int_murky_emp/world/world"/>
+			<value_node value="levels/instances/unique/pbr/pbr_mountain_vault/world/world"/>
+			<value_node value="levels/instances/unique/help/help_timer/world/world"/>
+			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
+			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
