@@ -10,6 +10,9 @@
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
+		<hooks directory="hooks">
+			<hook file="InteractionTweakData.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+		</hooks>
 		<include directory="levels/tonisl1">
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
@@ -47,6 +50,9 @@
 			</mod>
 		</script_data_mods>
 	</level>
+	<Sounds directory="assets/sounds/vo">
+		<sound id="tonis1_intro" path="tonis/tonis1_intro.ogg" subtitle_id="tonis1_intro"/>
+	</Sounds>
 	<narrative contact="custom" id="tonisn1">
 		<chain>
 			<table level_id="tonisl1" type="d" type_id="heist_type_assault"/>
