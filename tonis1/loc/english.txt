@@ -14,5 +14,6 @@
 	"ton1_obj_8" : "Wait for the chopper to arrive",
 	"ton1_obj_9" : "Secure the loot",
 	"ton1_obj_10" : "Secure more loot or escape",
+	"pku_ton_thermite" : "Hold $BTN_INTERACT to pick up the thermite"
 	
 }

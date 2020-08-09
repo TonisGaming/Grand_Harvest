@@ -2,6 +2,9 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
+	<Sounds directory="assets/sounds/vo">
+		<sound id="tonis1_intro" path="tonis/tonis1_intro.ogg" subtitle_id="tonis1_intro"/>
+	</Sounds>
 	<level ai_group_type="america" id="tonisl1" max_bags="54" orig_id="tonisl1">
 		<add file="levels/tonisl1/add.xml"/>
 		<assets>
@@ -43,6 +46,10 @@
 			<value_node value="levels/instances/unique/help/help_timer/world/world"/>
 			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
 			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
+			<value_node value="packages/job_short1_stage2"/>
+			<value_node value="packages/vlad_four_stores"/>
+			<value_node value="levels/instances/unique/vit/vit_ammo_dump/world/world"/>
+			<value_node value="levels/narratives/dentist/hox/stage_2/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
@@ -50,9 +57,6 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<Sounds directory="assets/sounds/vo">
-		<sound id="tonis1_intro" path="tonis/tonis1_intro.ogg" subtitle_id="tonis1_intro"/>
-	</Sounds>
 	<narrative contact="custom" id="tonisn1">
 		<chain>
 			<table level_id="tonisl1" type="d" type_id="heist_type_assault"/>
